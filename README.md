@@ -17,4 +17,4 @@ Use clean, readable Python code
 
 Handle simple edge cases (e.g., missing fields)
 
-project url: https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html
+project url:[ https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html](https://roadmap.sh/projects/job-listings-scraper)
